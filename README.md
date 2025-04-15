@@ -1,4 +1,4 @@
-# logistics
+# Logistics
 
 CSE 472 Logistics Project
 
